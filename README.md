@@ -6,4 +6,4 @@ Explanation: https://medium.com/@ahlon.aj.peoples/recreating-the-bowl-championsh
 #BCS 1.1 Update
   - changed list of every team into .unique()
   - edited formula to be more precise ((wins + c_wins) - (losses + c_losses) * 10) + (eilo * 0.1)) * 0.1
-  - rounded to the ten thousands place
+  - rounded points to the ten thousands place
